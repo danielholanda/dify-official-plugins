@@ -1,7 +1,7 @@
 ## Slack Bot
 
 **Author:** Langgenius  
-**Version:** 0.0.4
+**Version:** 0.0.99
 **Type:** extension
 
 ### Description
